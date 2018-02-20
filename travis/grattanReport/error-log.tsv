@@ -1,0 +1,149 @@
+Time	build_status	error_message
+2017-01-26 01:26:58	Fixed	NA
+2017-01-26 01:27:12	OK	NA
+2017-01-26 10:41:23	Broken	Each field line in .bib must end with a comma (to allow reordering).
+2017-01-26 10:41:37	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-01-29 11:42:05	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-01-29 11:47:28	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-01-29 11:48:47	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-01-29 11:49:40	Still failing	Space somewhere after \label . Spaces are not permitted in \label.
+2018-01-30 09:58:14	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-01-30 10:02:06	Still failing	Space somewhere after \label . Spaces are not permitted in \label.
+2018-01-30 10:06:09	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-01-30 10:09:14	Still failing	\footnote/\footcite cannot occur twice on the same line in the source. Break this sentence up into multiple lines.
+2018-01-30 10:15:24	Still failing	Space somewhere after \label . Spaces are not permitted in \label.
+2018-01-30 10:20:52	Still failing	\footnote/\footcite cannot occur twice on the same line in the source. Break this sentence up into multiple lines.
+2018-01-30 10:23:08	Still failing	Cross-references to chapters must use Chapref or topref.
+2018-01-30 10:28:12	Still failing	Hard-coded xref in document. All xrefs need to use \Cref or \Vref (or \Chapref for cross-references to chapters).
+2018-01-30 10:48:32	Still failing	Hard-coded xref in document. All xrefs need to use \Cref or \Vref (or \Chapref for cross-references to chapters).
+2018-01-30 11:23:10	Still failing	Hard-coded xref in document. All xrefs need to use \Cref or \Vref (or \Chapref for cross-references to chapters).
+2018-01-30 11:23:17	Still failing	Hard-coded xref in document. All xrefs need to use \Cref or \Vref (or \Chapref for cross-references to chapters).
+2018-01-30 11:23:39	Still failing	Hard-coded xref in document. All xrefs need to use \Cref or \Vref (or \Chapref for cross-references to chapters).
+2018-01-30 11:24:20	Still failing	Sentences which end with a capital letter need to be signalled with a sentence-ending period. (\@.)
+2018-01-30 11:25:05	Still failing	Sentences which end with a capital letter need to be signalled with a sentence-ending period. (\@.)
+2018-01-30 11:25:23	Still failing	Sentences which end with a capital letter need to be signalled with a sentence-ending period. (\@.)
+2018-02-01 09:56:36	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-01 09:59:13	Still failing	\footnote/\footcite cannot occur twice on the same line in the source. Break this sentence up into multiple lines.
+2018-02-01 10:00:26	Still failing	Punctuation after footnotemark.
+2018-02-01 10:02:42	Still failing	Sentences which end with a capital letter need to be signalled with a sentence-ending period. (\@.)
+2018-02-01 10:03:57	Still failing	Command must not have whitespace after.
+2018-02-01 10:05:16	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-02-01 10:11:12	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:11:44	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:12:14	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:12:54	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:13:07	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:13:09	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:13:12	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:13:13	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:14:00	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:17:06	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:18:23	Still failing	Use 'Peter Goss', not 'Pete Goss', in bibliography.
+2018-02-01 10:18:46	Still failing	Each field line in .bib must end with a comma (to allow reordering).
+2018-02-01 10:21:07	Still failing	Spellcheck failed: 'i'
+2018-02-01 10:22:40	Still failing	Spellcheck failed: 'judgments'
+2018-02-01 10:23:11	Still failing	Spellcheck failed: 'Austalia'
+2018-02-01 10:23:34	Still failing	Spellcheck failed: 'CESE'
+2018-02-01 10:24:11	Still failing	Spellcheck failed: 'AYP'
+2018-02-01 10:24:34	Still failing	Should be upper case G in government.
+2018-02-01 10:25:22	Still failing	Spellcheck failed: 'RCTs'
+2018-02-01 10:25:49	Fixed	NA
+2018-02-01 18:08:13	OK	NA
+2018-02-01 18:08:18	OK	NA
+2018-02-05 09:00:48	Broken	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-02-05 09:01:31	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-02-05 09:02:41	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 09:03:13	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 09:03:35	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 09:04:39	Still failing	Space somewhere after \label . Spaces are not permitted in \label.
+2018-02-05 09:14:10	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 09:24:25	Still failing	\footnote/\footcite cannot occur twice on the same line in the source. Break this sentence up into multiple lines.
+2018-02-05 09:30:01	Still failing	Hard-coded xref in document. All xrefs need to use \Cref or \Vref (or \Chapref for cross-references to chapters).
+2018-02-05 09:31:27	Still failing	Space inserted before \footnote
+2018-02-05 09:32:18	Still failing	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-02-05 09:33:26	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2018-02-05 09:40:49	Still failing	Spellcheck failed: 'XXX'
+2018-02-05 09:41:12	Still failing	Should be upper case G in government.
+2018-02-05 09:41:47	Still failing	Spellcheck failed: 'frontline'
+2018-02-05 09:42:25	Still failing	Use the macros \etc, \ie, and \eg provided for consistent formatting.
+2018-02-05 09:43:13	Still failing	Should be upper case G in government.
+2018-02-05 09:43:50	Still failing	Spellcheck failed: 'offs'
+2018-02-05 09:44:37	Still failing	Spellcheck failed: 'XXX'
+2018-02-05 09:45:26	Still failing	Spellcheck failed: 'ECE'
+2018-02-05 09:46:02	Still failing	Spellcheck failed: 'ATAR'
+2018-02-05 09:46:22	Fixed	NA
+2018-02-05 10:45:35	Broken	Command must not have whitespace after.
+2018-02-05 10:54:13	Fixed	NA
+2018-02-05 11:19:50	Broken	Spellcheck failed: 'indepedently'
+2018-02-05 11:20:31	Fixed	NA
+2018-02-05 11:32:33	OK	NA
+2018-02-05 11:37:22	OK	NA
+2018-02-05 11:53:15	OK	NA
+2018-02-05 11:58:11	OK	NA
+2018-02-05 13:20:50	Broken	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 13:22:59	Still failing	Should be upper case G in government.
+2018-02-05 13:23:38	Still failing	Should be upper case G in government.
+2018-02-05 13:24:02	Fixed	NA
+2018-02-05 16:35:54	Broken	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 16:36:49	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 16:37:00	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-05 16:37:17	Still failing	Should be upper case G in government.
+2018-02-05 16:40:36	Still failing	Should be upper case G in government.
+2018-02-05 16:40:57	Still failing	Spellcheck failed: 'judgments'
+2018-02-05 16:42:15	Still failing	Spellcheck failed: 'studprogress'
+2018-02-05 17:01:14	Still failing	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-06 09:42:40	Still failing	Spellcheck failed: 'studprogress'
+2018-02-06 11:44:33	Still failing	Spellcheck failed: 'studprogress'
+2018-02-06 11:44:59	Still failing	Spellcheck failed: 'Austraslia'
+2018-02-06 11:45:25	Fixed	NA
+2018-02-06 11:56:27	OK	NA
+2018-02-06 13:15:48	Broken	Spellcheck failed: 'practioners'
+2018-02-06 13:16:30	Fixed	NA
+2018-02-06 13:28:36	OK	NA
+2018-02-06 13:52:23	OK	NA
+2018-02-06 14:05:23	OK	NA
+2018-02-06 14:33:18	OK	NA
+2018-02-06 14:51:56	OK	NA
+2018-02-06 15:21:31	Broken	Sentences which end with a capital letter need to be signalled with a sentence-ending period. (\@.)
+2018-02-06 15:24:34	Fixed	NA
+2018-02-06 15:34:33	Broken	Sentences which end with a capital letter need to be signalled with a sentence-ending period. (\@.)
+2018-02-06 15:35:13	Still failing	Spellcheck failed: 'shoPrioritise'
+2018-02-06 15:38:08	Fixed	NA
+2018-02-06 15:47:57	Broken	Closing quote used at beginning of word. Use a backtick for an opening quote, e.g. The word `ossifrage' is quoted.
+2018-02-06 16:07:00	Still failing	Punctuation after footnotemark.
+2018-02-06 16:07:48	Still failing	Spellcheck failed: 'focu'
+2018-02-06 16:08:33	Fixed	NA
+2018-02-06 16:17:51	OK	NA
+2018-02-06 16:30:22	Broken	Should be upper case G in government.
+2018-02-08 09:06:16	Still failing	Should be upper case G in government.
+2018-02-08 09:07:35	Still failing	Should be upper case G in government.
+2018-02-08 09:08:17	Still failing	Should be upper case G in government.
+2018-02-08 09:08:48	Still failing	Should be upper case G in government.
+2018-02-08 09:09:46	Still failing	Should be upper case G in government.
+2018-02-08 09:11:29	Fixed	NA
+2018-02-08 09:22:52	OK	NA
+2018-02-08 09:34:34	OK	NA
+2018-02-08 09:55:07	OK	NA
+2018-02-08 10:09:23	OK	NA
+2018-02-08 11:06:55	OK	NA
+2018-02-08 11:13:14	OK	NA
+2018-02-08 11:14:44	OK	NA
+2018-02-08 11:32:34	OK	NA
+2018-02-08 11:43:27	OK	NA
+2018-02-08 12:21:02	OK	NA
+2018-02-08 12:26:05	OK	NA
+2018-02-08 12:33:28	OK	NA
+2018-02-08 13:37:04	OK	NA
+2018-02-08 13:56:15	OK	NA
+2018-02-08 16:16:05	OK	NA
+2018-02-08 16:33:20	OK	NA
+2018-02-08 16:55:15	OK	NA
+2018-02-08 17:25:40	Broken	Dash likely masquerading as hyphen. Use -- for a dash.
+2018-02-08 17:26:06	Fixed	NA
+2018-02-08 17:52:12	OK	NA
+2018-02-09 09:28:46	OK	NA
+2018-02-09 13:46:07	OK	NA
+2018-02-09 16:08:49	OK	NA
+2018-02-09 16:19:39	OK	NA
+2018-02-09 16:26:38	OK	NA
+2018-02-09 16:41:50	OK	NA
